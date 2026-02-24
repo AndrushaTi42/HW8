@@ -9,7 +9,7 @@ void main() {
     //Вывод значений элементов массива в консоль
     for (int index = 0; index < arr.length; index++) {
         if (index == arr.length - 1) {
-            System.out.println(arr[index] + ";");
+            System.out.println(arr[index]);
             break;
         }
         System.out.print(arr[index] + ", ");
@@ -19,7 +19,7 @@ void main() {
 //выводим значения в консоль
     for (int index = 0; index < arrTwo.length; index++) {
         if (index == arrTwo.length - 1) {
-            System.out.println(arrTwo[index] + ";");
+            System.out.println(arrTwo[index]);
             break;
         }
         System.out.print(arrTwo[index] + ", ");
@@ -33,7 +33,7 @@ void main() {
 //выводим значения элементов массива в консоль
     for (int index = 0; index < arrThree.length; index++) {
         if (index == arrThree.length - 1) {
-            System.out.println(arrThree[index] + ";");
+            System.out.println(arrThree[index]);
             break;
         }
         System.out.print(arrThree[index] + ", ");
@@ -51,7 +51,7 @@ void main() {
 //выводим значения
     for (int index = 0; index < arr.length; index++) {
         if (index == arr.length - 1) {
-            System.out.println(arr[index] + ";");
+            System.out.println(arr[index]);
             break;
         }
         System.out.print(arr[index] + ", ");
@@ -66,7 +66,7 @@ void main() {
 //выводим значения
     for (int index = 0; index < arrTwo.length; index++) {
         if (index == arrTwo.length - 1) {
-            System.out.println(arrTwo[index] + ";");
+            System.out.println(arrTwo[index]);
             break;
         }
         System.out.print(arrTwo[index] + ", ");
@@ -81,7 +81,7 @@ void main() {
 //выводим значения
     for (int index = 0; index < arrThree.length; index++) {
         if (index == arrThree.length - 1) {
-            System.out.println(arrThree[index] + ";");
+            System.out.println(arrThree[index]);
             break;
         }
         System.out.print(arrThree[index] + ", ");
